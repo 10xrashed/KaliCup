@@ -22,9 +22,7 @@ KaliCup is a comprehensive security tools installer that transforms any Linux di
 
 1. **Download KaliCup:**
    ```bash
-   wget https://raw.githubusercontent.com/your-repo/kalicup/main/kalicup.sh
-   # OR
-   curl -O https://raw.githubusercontent.com/your-repo/kalicup/main/kalicup.sh
+   curl -O https://raw.githubusercontent.com/10xrashed/KaliCup/main/kalicup.sh
    ```
 
 2. **Make it executable:**

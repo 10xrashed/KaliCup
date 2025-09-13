@@ -325,12 +325,7 @@ To add a new tool to KaliCup:
 4. Test on multiple distributions
 
 ## 📞 Support
-
 - **GitHub Issues**: Report bugs and request features
-- **Discord**: Join our community server (link)
-- **Documentation**: Check the wiki for detailed guides
-- **Email**: security@kalicup.com
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

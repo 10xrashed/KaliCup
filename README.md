@@ -1,3 +1,6 @@
+<img src="https://img.icons8.com/?size=100&id=nN6ppJgCKNGq&format=png&color=000000" align="right" width="30%" style="margin: -20px 0 0 20px;">
+
+
 # KaliCup - Complete Security Suite Installer
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
